@@ -2,7 +2,7 @@
 
 ## Using API-s
 
-### `ExerciseDB API`
+### `Exercise DB API`
 
 ### `Youtube Search and Download API`
 
